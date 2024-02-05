@@ -2,14 +2,14 @@
 "data":
   [
     {
-      "id":1,
-      "username":"admin",
-      "password":"12345"
+      "Id":1,
+      "UserName":"admin",
+      "Password":"12345"
     },
     {
-      "id":2,
-      "username":"rahul",
-      "password":"rah123"
+      "Id":2,
+      "UserName":"rahul",
+      "Password":"rah123"
     },
   ]
 }
